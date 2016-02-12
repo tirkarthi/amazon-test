@@ -1,2 +1,2 @@
 language: python
-script: perl hello.pl
+script: python tests.py
