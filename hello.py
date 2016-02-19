@@ -7,5 +7,5 @@ def subtract(a, b):
     return a - b
 
 def multiply(a, b):
-    '''Return the product of the two numbers'''
+    '''Return the product of the two numbers and some more docs'''
     return a * b
