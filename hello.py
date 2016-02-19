@@ -7,5 +7,5 @@ def subtract(a, b):
     return a - b
 
 def multiply(a, b):
-    '''Multiply two numbers and this will make merge conflict'''
+    '''Multiply two numbers and this will make merge conflict and some more'''
     return a * b
